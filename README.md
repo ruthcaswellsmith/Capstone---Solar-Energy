@@ -4,14 +4,6 @@ This contains my final capstone project for Springboard Data Science Career Trac
 
 ├── README.md           <- The top-level README 
 
-├── data
-
-│    raw                <- raw solar data
-
-│    interim            <- processed data
-
-│
-
 ├── notebooks           <- Jupyter notebooks. 
 
 |     Solar - Data Wrangling.ipynb
