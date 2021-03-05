@@ -1,4 +1,5 @@
-# Solar - Final Capstone
+# Final Capstone
+# Solar Energy Time Series Forecasting and Performance Modeling 
 
 This contains my final capstone project for Springboard Data Science Career Track
 
